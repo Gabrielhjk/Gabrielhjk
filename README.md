@@ -1,6 +1,6 @@
 Olá, eu sou Gabriel!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriel-frança-053589289)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-frança-053589289)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielhjk&show_icons=true&theme=dracula)
 
