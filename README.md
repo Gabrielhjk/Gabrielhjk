@@ -1,16 +1,16 @@
-## Hi there 👋
+Olá, eu sou Gabriel!
 
-<!--
-**Gabrielhjk/Gabrielhjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](htpps?//linkedin.com/in/gabriel-frança-053589289)
 
-Here are some ideas to get you started:
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielhjk&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display">
+  <img align="center" alt="python" scr="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+<br/>
+
+Atualmente estou no 3 período cursando Sistemas de informação no Centro Universitário
+Estácio/SE. Estou em busca de experiência para desenvolver meus conhecimentos e evoluir cada vez mais na
+área de tecnologia. Dos projetos em que participei na faculdade está a criação de um CRUD, em HTML e CSS, formado por um grupo de 5 pessoas, ele consistia em
+um site de listagem de tarefas, com as tarefas armezanadas em um banco de dados mysql. Outro projeto que
+também participei em grupo na faculdade foi a criação de um sistema bancário em Python, em um grupo formado por 4 pessoas. 
