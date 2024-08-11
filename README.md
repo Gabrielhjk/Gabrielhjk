@@ -9,8 +9,8 @@ Olá, eu sou Gabriel!
 </div>
 <br/>
 
-Atualmente estou no 3 período cursando Sistemas de informação no Centro Universitário
-Estácio/SE. Estou em busca de experiência para desenvolver meus conhecimentos e evoluir cada vez mais na
-área de tecnologia. Dos projetos em que participei na faculdade está a criação de um CRUD, em HTML e CSS, formado por um grupo de 5 pessoas, ele consistia em
-um site de listagem de tarefas, com as tarefas armezanadas em um banco de dados mysql. Outro projeto que
-também participei em grupo na faculdade foi a criação de um sistema bancário em Python, em um grupo formado por 4 pessoas. 
+Sou um iniciante na área de tecnologia e estou no início da minha jornada acadêmica na faculdade, atualmente no 3 período. Apesar de não possuir muito conhecimento na área, meu interesse pela mesma é grande e estou ansioso para explorar e aprender mais sobre este vasto setor.
+
+Durante os primeiros meses do meu curso, tive a oportunidade de trabalhar em dois projetos, em apoio com um grupo formado por 4 pessoas, tendo uma introdução prática aos conceitos fundamentais das disciplinas. Esses projetos foram essenciais para entender melhor a área e solidificar meu interesse em seguir uma carreira tecnológica.
+
+Estou comprometido em expandir meu conhecimento e adquirir novas habilidades, e estou animado para enfrentar desafios e colaborar com profissionais experientes. Meu objetivo é construir uma carreira em que eu sempre esteja querendo mais da área e de alguma forma conseguir contribuir de forma positiva para o setor tecnológico.
