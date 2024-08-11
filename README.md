@@ -13,4 +13,4 @@ Sou um iniciante na área de tecnologia e estou no início da minha jornada acad
 
 Durante os primeiros meses do meu curso, tive a oportunidade de trabalhar em dois projetos, em apoio com um grupo formado por 4 pessoas, tendo uma introdução prática aos conceitos fundamentais das disciplinas. Esses projetos foram essenciais para entender melhor a área e solidificar meu interesse em seguir uma carreira tecnológica.
 
-Estou comprometido em expandir meu conhecimento e adquirir novas habilidades, e estou animado para enfrentar desafios e colaborar com profissionais experientes. Meu objetivo é construir uma carreira em que eu sempre esteja querendo mais da área e de alguma forma conseguir contribuir de forma positiva para o setor tecnológico.
+Estou comprometido em expandir meu conhecimento e adquirir novas habilidades, e estou animado para enfrentar desafios e colaborar com profissionais experientes. Meu objetivo é construir uma carreira em que eu sempre esteja querendo mais da área e de alguma forma conseguir contribuir positivamente para o setor tecnológico.
