@@ -9,6 +9,4 @@ Olá, eu sou Gabriel!
 </div>
 <br/>
 
-Atualmente cursando Sistemas de Informação. Durante os primeiros meses do meu curso, tive a oportunidade de trabalhar em dois projetos, em apoio com um grupo formado por 4 pessoas, tendo uma introdução prática aos conceitos fundamentais das disciplinas. Esses projetos foram essenciais para entender melhor a área e solidificar meu interesse em seguir uma carreira tecnológica.
-
-Estou comprometido em expandir meu conhecimento e adquirir novas habilidades, e estou animado para enfrentar desafios e colaborar com profissionais experientes. Meu objetivo é construir uma carreira em que eu sempre esteja ansiando mais pela área e de alguma forma conseguir contribuir positivamente para o setor tecnológico.
+Cursando Sistemas de Informação, com foco em segurança da informação e desenvolvimento em Python. Atualmente, estou desenvolvendo um projeto voltado para a área de psicologia em parceria com o LTDA (Laboratório de Transformação Digital) e desenvolvendo artigos científicos almejando, após a graduação, o mestrado.
