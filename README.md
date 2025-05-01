@@ -9,4 +9,4 @@ Olá, eu sou Gabriel!
 </div>
 <br/>
 
-Cursando Sistemas de Informação, com foco em segurança da informação e desenvolvimento em Python. Atualmente, estou desenvolvendo um projeto voltado para a área de psicologia em parceria com o LTDA (Laboratório de Transformação Digital) e desenvolvendo artigos científicos almejando, após a graduação, o mestrado.
+Cursando Sistemas de Informação, com foco em segurança da informação, inteligência artificial e desenvolvimento back-end. Apaixonado por tecnologia desde a infância, aprofundei meu interesse durante a graduação. Atualmente, participo do projeto de iniciação científica na minha faculdade desenvolvendo artigos científicos. Meu objetivo é seguir para o mestrado após a graduação, aprofundando meus estudos e contribuições para a área conseguindo me aperfeiçoar como profissional.
