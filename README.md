@@ -1,4 +1,4 @@
-##Hi there 👋
+**Hi there 👋**
 
 - I'm currently learning Java & AI
 - I'm looking for help with JavaScript
