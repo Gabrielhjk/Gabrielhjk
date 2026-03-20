@@ -1,7 +1,7 @@
 **Hi there 👋**
 
 - I'm currently learning Java & AI
-- I'm looking for help with JavaScript
+- I'm looking for help with C#
 - Ask me about Backend
 - How to reache me: gabrieldejesusfc.12@gmail.com
 
